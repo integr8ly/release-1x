@@ -18,7 +18,7 @@ The following components are needed to make up a integreatly release
     - **Releasing:** 
         - tag the managed service repo against master with the version we want to release.
         - clone the repo and checkout the tag
-        - run ```make build_and_push TAG=<version>```
+        - run ```make build_and_push TAG=<release_version>```
         - update the version referenced from the integreatly installer against the release branch [https://github.com/integr8ly/installation]()
         - for each bug fix we will need to either update the tag or update the version retag and update the installer
         
