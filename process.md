@@ -1,4 +1,4 @@
-# Manual Release Process
+# Manual Release Process - INTLY-7 test
 
 
 The following components are needed to make up a integreatly release
